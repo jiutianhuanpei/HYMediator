@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "HYMediator"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "组件化核心模块"
   s.description  = <<-DESC
    在别的模块中建立此模块的扩展类，以直接调用
