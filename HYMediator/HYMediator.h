@@ -1,9 +1,8 @@
 //
 //  HYMediator.h
-//  HYGeneralMediator
 //
-//  Created by xuxue on 16/10/24.
-//  Copyright © 2016年 xuxue. All rights reserved.
+//  Created by shb on 16/10/24.
+//  Copyright © 2016年 shb. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
